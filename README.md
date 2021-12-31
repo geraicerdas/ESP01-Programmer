@@ -17,7 +17,7 @@ If you want to make your self, just download the gerber file in production folde
 
 <p float="left">
 <img src="https://images.tokopedia.net/img/cache/900/product-1/2017/6/1/105929/105929_fa54a206-936e-4c50-97a9-72eb0a0ae62c_800_532.jpg" width=400 /> 
-<img src="https://images.tokopedia.net/img/cache/900/product-1/2017/6/1/105929/105929_74d98bd4-29e5-4138-b302-8f0dff5cf598_800_532.jpg" width=400 /> 
+<img src="https://images.tokopedia.net/img/cache/900/product-1/2017/6/1/105929/105929_d78f2a84-dc1a-47c1-ae92-900277ca0cfa_800_532.jpg" width=400 /> 
 <img src="https://images.tokopedia.net/img/cache/900/product-1/2017/6/1/105929/105929_51edd68b-31a3-43f8-8ce2-cfb450e3e90a_800_532.jpg" width=805 />
 </p>
 
